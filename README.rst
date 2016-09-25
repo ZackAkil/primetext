@@ -5,7 +5,8 @@ python package for indexing text datasets for fast word frequency analysis
 Usage
 =====
 
-.. code:: python
+.. code-block:: python
+
   from primetext import primetext
 
   data = ["black cat on mat",
@@ -24,4 +25,3 @@ Usage
 
   recordsWithCatAndSat = pt.find(['cat','sat'])
   # returns boolean vector : [False,False,True]
-  

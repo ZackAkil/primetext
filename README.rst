@@ -2,16 +2,16 @@ primetext
 =========
 python package for indexing text datasets for fast word frequency analysis
 
-----
-
 Usage
 =====
-.. code-block:: python
-	from primetext import primetext
+
+.. code:: python
+	:linenos:
+	#from primetext import primetext
 
 	data = ["black cat on mat",
-	        "black hat for you",
-	        "cat sat on you"]
+	"black hat for you",
+	"cat sat on you"]
 
 	# initiate primetext
 	pt = primetext()

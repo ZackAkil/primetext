@@ -13,7 +13,7 @@ data = ["black cat on mat",
 "cat sat on you"]
 
 # initiate primetext
-pt = primetext()
+pt = primetext.primetext()
 
 # indexing data
 pt.index(data)

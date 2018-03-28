@@ -2,6 +2,10 @@ primetext
 =========
 python package for indexing text datasets for fast word frequency analysis
 
+algorithm explanation
+=========
+https://www.codeproject.com/Tips/1137359/Text-Indexing-with-Prime-Factors
+
 Usage
 =====
 

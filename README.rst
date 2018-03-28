@@ -6,6 +6,8 @@ algorithm explanation
 =========
 https://www.codeproject.com/Tips/1137359/Text-Indexing-with-Prime-Factors
 
+https://github.com/ZackAkil/text-indexing-using-prime-factors/blob/master/text%20indexing%20using%20prime%20factors.ipynb
+
 Usage
 =====
 
